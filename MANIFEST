@@ -1,5 +1,5 @@
 Changes
-Gather.pm
+lib/Perl6/Gather.pm
 Makefile.PL
 MANIFEST
 README
@@ -7,3 +7,4 @@ t/1.t
 demo/demo_gather.pl
 demo/demo_gathered.pl
 demo/demo_lvalue.pl
+META.yml                                 Module meta-data (added by MakeMaker)

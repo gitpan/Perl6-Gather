@@ -18,3 +18,9 @@ Revision history for Perl extension Perl6::Gather.
 0.04	Tue Mar  9 02:59:22 2004
 
 	- Updated internals to mirror interface changes in Perl6::Export
+
+
+
+0.41  Wed Aug 26 05:58:06 2009
+
+	- Updated Makefile.PL to note Perl6::Export 0.07 dependency

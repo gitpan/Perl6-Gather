@@ -2,7 +2,7 @@ package Perl6::Gather;
 use Perl6::Export;
 use Carp;
 
-our $VERSION = '0.04';
+use version; our $VERSION = qv('0.41');
 
 my %gatherers;
 
